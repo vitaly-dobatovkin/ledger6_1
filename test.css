@@ -1,0 +1,8 @@
+.bBLzar {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex: 1 1 0%;
+    flex-wrap: wrap;
+    max-width: calc(100% - 75px);
+}
